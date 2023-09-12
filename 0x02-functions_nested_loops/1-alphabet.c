@@ -13,11 +13,11 @@ void print_alphabet(void)
 {
 	char alphabets = 'a';
 
-	while (alphabetts <= 'z')
+	while (alphabets <= 'z')
 	{
-		_putchar(alphabets);
+		putchar(alphabets);
 		alphabets++;
 	}
 
-	_putchar('\n');
+	putchar('\n');
 }
