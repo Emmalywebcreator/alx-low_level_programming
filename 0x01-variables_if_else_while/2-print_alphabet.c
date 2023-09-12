@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
  * Description: Prinnt all alphabet in lower case followed by a new
