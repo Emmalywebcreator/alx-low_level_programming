@@ -5,6 +5,8 @@
  *
  * Description: print_alphabet in lowercase
  * followed by anew line
+ * 
+ * print_alphabet
  *
  * Return: 0 always for success
  */
