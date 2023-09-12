@@ -6,7 +6,7 @@
  * Description: Prinnt all alphabet in lower case followed by a new
  * line
  *
- * return: 0 always for success
+ * Return: 0 always for success
  */
 int main(void)
 {
