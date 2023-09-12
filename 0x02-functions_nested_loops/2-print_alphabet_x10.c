@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * print_alphabet_x10 - This function print 10x the alphabet in 
+ * print_alphabet_x10 - This function print 10x the alphabet in
  * lowercase
  *
  * Return: 0
