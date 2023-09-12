@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: Print all single digit number from 
+ * Description: Print all single digit number from
  * base 10 starting from 0
  *
  * Return: 0 always for success
