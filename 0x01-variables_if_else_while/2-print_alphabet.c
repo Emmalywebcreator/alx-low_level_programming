@@ -4,8 +4,8 @@
  *
  * main - Entry point
  *
- * Description: This programs prinnt all alphabet in lower case followed  * a new line
- *
+ * Description: Prinnt all alphabet in lower case followed by a new
+ * line
  *
  * return: 0 always for success
  */
@@ -20,5 +20,5 @@ int main(void)
 	}
 
 	putchar('\n');
-	return 0;
+	return (0);
 }
