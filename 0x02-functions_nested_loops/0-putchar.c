@@ -9,7 +9,7 @@
  * Return: 0 always for success
  */
 
-int main()
+int main(void)
 {
 	putchar('_');
 	putchar('p');
