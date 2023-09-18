@@ -1,0 +1,1 @@
+arrays piointers and strings
