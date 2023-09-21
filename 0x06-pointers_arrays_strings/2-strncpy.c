@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncpy _ This function copy a string
+ * _strncpy - This function copy a string
  * @dest: destination string
  * @src: sourcd string
  * @n: number of byte to copy
@@ -16,14 +16,14 @@ char *_strncpy(char *dest, char *src, int n)
 	s2 = 0;
 	while (src[2] != '\0' && s2 < n)
 	{
-		dest[s2] = src[s1];
+		dest[s2] = src[s2];
 		s2++;
 	}
 
-	while (j < n)
+	while (s2 < n)
 	{
 		dest[s2] = '\0',
-			j++;
+			s2++;
 	}
 
 	return (dest);
