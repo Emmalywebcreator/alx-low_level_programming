@@ -4,7 +4,7 @@
  * reverse_array - reverses an array integers
  *
  * @a: arry to be reverse
- * @n number of element in the array
+ * @n: number of element in the array
  *
  * Return: void
  */
