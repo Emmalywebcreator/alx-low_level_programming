@@ -13,9 +13,9 @@ char *rot13(char *s)
 	int i;
 	int j;
 
-	char alpha[] = 
+	char alpha[] =
 	"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-	char Drot = 
+	char Drot[] =
 	"NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
 	for (i = 0; s[i] != '\0'; i++)
