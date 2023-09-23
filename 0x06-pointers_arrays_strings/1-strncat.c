@@ -6,7 +6,7 @@
  *
  * @dest: destination string
  * @src: source srting
- * @n numbeer of byte from the source string
+ * @n: numbeer of byte from the source string
  *
  * Return: dest
  */
