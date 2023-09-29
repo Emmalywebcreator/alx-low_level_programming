@@ -13,4 +13,5 @@ int actual_prime(int n, int i);
 int is_palindrome(char *s);
 int ispal_checker(char *s, int i, int len);
 int strlen_rec(char *s);
+int wildcmp(char *s1, char *s2);
 #endif
