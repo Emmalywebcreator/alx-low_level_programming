@@ -16,7 +16,7 @@ int main(void)
 	for (HEX = '0'; HEX <= '9'; HEX++)
 	{
 		putchar(HEX);
-        }
+	}
 
 	for (HEX = 'a'; HEX <= 'f'; HEX++)
 	{
