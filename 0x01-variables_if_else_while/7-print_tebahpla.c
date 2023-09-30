@@ -11,15 +11,16 @@
 
 int main(void)
 {
-        char alphabets = 'z';
+	char alphabets = 'z';
 
-        while (alphabets >= 'a')
-        {
-        putchar(alphabets);
-        alphabets--;
-        }
+	while (alphabets >= 'a')
+	{
+	putchar(alphabets);
 
-        putchar('\n');
+	alphabets--;
+	}
 
-        return (0);
+	putchar('\n');
+
+	return (0);
 }
