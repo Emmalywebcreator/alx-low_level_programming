@@ -18,7 +18,7 @@ size_t free_listint_safe(listint_t **h)
 		current = next;
 		if (current == *h)
 		{
-			/* Set the head to NULL when the whole list is freed */
+
 			*h = NULL;
 			return (count);
 		}
