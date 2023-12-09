@@ -13,6 +13,6 @@ void free_dlistint(dlistint_t *head)
 	{
 		temp = head;          /* Save the current node */
 		head = head->next;    /* Move to the next node */
- 		free(temp);           /* Free the current node */
+		free(temp);           /* Free the current node */
 	}
 }
