@@ -19,6 +19,7 @@ void print_array(int *array, size_t left, size_t right)
 		{
 			printf(", ");
 		}
+	}
 	printf("\n");
 }
 
