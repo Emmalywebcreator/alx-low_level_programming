@@ -2,7 +2,7 @@
 #include "search_algos.h"
 
 /**
- * linear search: This function iterate through an array finding
+ * linear_search-This function iterate through an array finding
  * the first occurrence of a value in th interger array
  *
  * @array: A pointer to the first element of the  array
