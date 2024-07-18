@@ -26,7 +26,7 @@ int jump_search(int *array, size_t size, int value)
 
 	while (curr < size && array[curr] < value)
 	{
-		printf("Value checked at array[%li] = [%i]\n", curr, array[curr]);
+		printf("Value checked array[%li] = [%i]\n", curr, array[curr]);
 		prev = curr;
 		curr += step;
 	}
@@ -36,7 +36,7 @@ int jump_search(int *array, size_t size, int value)
 
 	while (prev <= curr)
 	{
-		printf("Value checked at array[%li] = [%i]\n", prev, array[prev]);
+		printf("Value checked array[%li] = [%i]\n", prev, array[prev]);
 		if (array[prev] == value)
 		{
 			return (prev);
